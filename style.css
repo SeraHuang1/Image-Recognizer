@@ -1,0 +1,16 @@
+body{
+    color: brown;
+    background-color: blanchedalmond;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects{
+    color: rgb(165, 42, 130)
+}
+#camera{
+    border: 2px dashed darkorchid;
+    width:350px;
+    height:300px;
+}
